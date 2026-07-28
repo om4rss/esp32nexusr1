@@ -52,9 +52,10 @@ An intelligent, dual-wheel drive (2WD) robot controlled via a Python-based Wi-Fi
    ```
 
 3. Gemini API Key
+
    Visit https://aistudio.google.com/app/apikey and click "Create API key"
    
-   export GEMINI_API_KEY="your_api_key_here"
+   Export GEMINI_API_KEY="your_api_key_here"
    
    (On Windows PowerShell, use: $env:GEMINI_API_KEY="your_api_key_here")
 
